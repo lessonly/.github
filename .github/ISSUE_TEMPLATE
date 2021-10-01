@@ -1,0 +1,26 @@
+## The Problem
+
+Frame the issue as a problem rather than a solution. What concern are we attempting to solve?
+Include media in the forms of GIFs, screenshots, and mock-ups when applicable.
+
+## Steps to reproduce
+
+What steps did you take to produce the issue? Provide error messages and other important information.
+
+1. Ex: Create a new user
+2. Ex: Attempt to login
+3. Ex: Receive error message for valid user
+
+## Potential Solutions
+
+What solutions have been proposed to solve this issue? Is there anyone to talk to about potential solutions before implementing them?
+
+## Things to consider
+
+Are there any compelling reasons not to tackle this problem? Any specific tasks you've already thought of to complete this issue?
+
+*e.g. If we add any more functionality to the gradebook, it may get to be too slow to load. We'll have to think about how we can reduce the N+1 queries*
+
+## Further Reading
+
+List any blog posts, articles, and/or resources that directly deal with this issue. Also, list relevant Slack conversations and Trello cards.
