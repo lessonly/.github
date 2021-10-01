@@ -18,7 +18,6 @@ _List any steps a reviewer should take to prepare for testing, but that aren't a
 
 - [ ] Enabled these Feature flags
   - List any feature flags the reviewer needs here
-  -
 - [ ] Create test data
 - [ ] Open up a rails console
 - [ ] Visit a page
@@ -45,7 +44,6 @@ _If you have written frontend code (displays to a user) you should also test in 
 
 - [ ] Chrome or Firefox (Preferred browser)
 - [ ] iOS Safari
-- [ ] IE11
 - [ ] Firefox — when working with SVGs
 - [ ] PDF Export — Lesson viewer changes (which uses [Prince](https://www.princexml.com/) to render HTML and is essentially another browser)
 
