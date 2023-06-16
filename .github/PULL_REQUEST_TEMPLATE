@@ -1,6 +1,6 @@
 ## Why?
 
-Resolves [[LRE-XXXX]](https://seismic.atlassian.net/browse/LRE-XXXX)
+Resolves [LRE-XXXX](https://seismic.atlassian.net/browse/LRE-XXXX)
 
 What is the problem this PR attempts to solve, and why is it important? Fixing a bug? Explain the problem you're solving. Laying a foundation for future work? Explain how this fits into the bigger picture. Don't forget to link to the Shortcut issue above.
 
@@ -74,4 +74,4 @@ Were there articles or StackOverflow answers you found especially eye-opening wh
 
 ## Merge Instructions
 
-Please **DO NOT** squash my commits when merging
+Please **DO** squash my commits when merging
