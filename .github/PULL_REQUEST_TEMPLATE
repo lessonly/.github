@@ -2,7 +2,7 @@
 
 Resolves [LRE-XXXX](https://seismic.atlassian.net/browse/LRE-XXXX)
 
-What is the problem this PR attempts to solve, and why is it important? Fixing a bug? Explain the problem you're solving. Laying a foundation for future work? Explain how this fits into the bigger picture. Don't forget to link to the Shortcut issue above.
+What is the problem this PR attempts to solve, and why is it important? Fixing a bug? Explain the problem you're solving. Laying a foundation for future work? Explain how this fits into the bigger picture. Don't forget to link to the Jira issue above.
 
 ## What?
 
@@ -24,7 +24,7 @@ _List any steps a reviewer should take to prepare for testing, but that aren't a
 
 ### Feature testing steps:
 
-_List all steps to test the feature. Try to split up steps into managable sections so the review can work in batches_
+_List all steps to test the feature. Try to split up steps into manageable sections so the review can work in batches_
 
 **Section Name**
 
